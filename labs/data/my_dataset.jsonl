@@ -1,0 +1,5 @@
+{"item":{"input": "Do you ship to Europe?", "expected_answer": "Yes, we ship to all EU countries. Standard delivery takes 5-7 business days, express 2-3 days.", "expected_tool": "knowledge_assistant", "expected_category": "shipping"}}
+{"item":{"input": "How should I store coffee beans?", "expected_answer": "Store in an airtight container, away from light and heat, at room temperature. Use within 2-4 weeks of opening.", "expected_tool": "knowledge_assistant", "expected_category": "product_care"}}
+{"item":{"input": "Do you offer refunds?", "expected_answer": "Yes, we offer 30-day refunds.", "expected_tool": "knowledge_assistant", "expected_category": "returns"}}
+{"item":{"input": "What is your phone number?", "expected_answer": "Our team is very friendly and would love to chat with you about anything you need.", "expected_tool": "knowledge_assistant", "expected_category": "contact"}}
+{"item":{"input": "Is your coffee organic?", "expected_answer": "All our single-origin beans are certified organic by the EU. Blends may contain non-organic beans — check individual product pages.", "expected_tool": "knowledge_assistant", "expected_category": "product_info"}}

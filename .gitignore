@@ -1,0 +1,41 @@
+﻿# Secrets
+.env
+.env.*
+!.env.example
+*.key
+secrets.*
+credentials.*
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Promptfoo
+.promptfoo/
+promptfoo-output/
+*.promptfoo.json
+
+# Course-specific
+labs/data/*model_answer.jsonl
+labs/data/faq_example.jsonl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
